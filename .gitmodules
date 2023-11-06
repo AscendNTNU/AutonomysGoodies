@@ -1,0 +1,6 @@
+[submodule "mavrosInterfaces"]
+	path = mavrosInterfaces
+	url = git@github.com:AscendNTNU/mavrosInterfaces.git
+[submodule "autonomyAlgos"]
+	path = autonomyAlgos
+	url = git@github.com:AscendNTNU/autonomyAlgos.git
