@@ -1,0 +1,3 @@
+[submodule "offboardMode"]
+	path = offboardMode
+	url = git@github.com:AscendNTNU/offboardMode.git
